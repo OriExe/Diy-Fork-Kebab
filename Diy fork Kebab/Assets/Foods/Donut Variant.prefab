@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6470204651463669640
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2022951374759955883, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.25882354
+      objectReference: {fileID: 0}
+    - target: {fileID: 2022951374759955883, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.46274513
+      objectReference: {fileID: 0}
+    - target: {fileID: 2022951374759955883, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.8431373
+      objectReference: {fileID: 0}
+    - target: {fileID: 3439763100184267217, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.25882354
+      objectReference: {fileID: 0}
+    - target: {fileID: 3439763100184267217, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.46274513
+      objectReference: {fileID: 0}
+    - target: {fileID: 3439763100184267217, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.8431373
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820332, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Name
+      value: Donut Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820334, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -867810750, guid: 29ec59af5a719a342ba3ca7ef7c0df53, type: 3}
+    - target: {fileID: 6182991810995820335, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.0651
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820369, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Size.x
+      value: 0.06399221
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820369, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.003003898
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820369, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.06
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811131972068, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Name
+      value: Donut Right
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811131972070, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -919901595, guid: 29ec59af5a719a342ba3ca7ef7c0df53, type: 3}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.0751815
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.469415
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380257, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Name
+      value: Donut Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991812810563704, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -134330054, guid: 29ec59af5a719a342ba3ca7ef7c0df53, type: 3}
+    - target: {fileID: 6182991812810563705, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Name
+      value: Donut Middle
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617694835189562120, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.25882354
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617694835189562120, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.46274513
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617694835189562120, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.8431373
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}

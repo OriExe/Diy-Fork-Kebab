@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8864863127884590170
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2022951374759955883, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.26666668
+      objectReference: {fileID: 0}
+    - target: {fileID: 2022951374759955883, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.23137257
+      objectReference: {fileID: 0}
+    - target: {fileID: 2022951374759955883, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.8941177
+      objectReference: {fileID: 0}
+    - target: {fileID: 3439763100184267217, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.2627451
+      objectReference: {fileID: 0}
+    - target: {fileID: 3439763100184267217, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.227451
+      objectReference: {fileID: 0}
+    - target: {fileID: 3439763100184267217, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.89019614
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820332, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Name
+      value: Chili Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820334, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1137489270, guid: 29ec59af5a719a342ba3ca7ef7c0df53, type: 3}
+    - target: {fileID: 6182991810995820369, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Size.x
+      value: 0.07491031
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820369, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0024551526
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820369, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991810995820369, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811131972068, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Name
+      value: Chili Right
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811131972070, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1172455495, guid: 29ec59af5a719a342ba3ca7ef7c0df53, type: 3}
+    - target: {fileID: 6182991811131972071, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0796
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811131972073, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Size.x
+      value: 0.075488105
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811131972073, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.002744047
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811131972073, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811131972073, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.0578218
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.7853141
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380256, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991811357380257, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Name
+      value: Chili Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991812810563704, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -292954750, guid: 29ec59af5a719a342ba3ca7ef7c0df53, type: 3}
+    - target: {fileID: 6182991812810563705, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_Name
+      value: Chili Middle
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991812810563706, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.12
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182991812810563707, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.0047
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617694835189562120, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.26666668
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617694835189562120, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.23137257
+      objectReference: {fileID: 0}
+    - target: {fileID: 7617694835189562120, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.8941177
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9ae1cd0ce20ff9243a95ee15a5543ec8, type: 3}
